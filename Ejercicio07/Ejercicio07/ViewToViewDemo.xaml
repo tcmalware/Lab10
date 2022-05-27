@@ -4,7 +4,7 @@
              x:Class="Ejercicio07.ViewToViewDemo">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Gabriel Herrera Lab10"
+            <Label Text="Genaro Valqui"
                BindingContext="{x:Reference Name=slider}"
                Rotation="{Binding Path=Value}"
                FontAttributes="Bold"
