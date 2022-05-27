@@ -19,7 +19,7 @@
 
             <!-- Scaled and rotated Label -->
             <Label x:Name="label"
-               Text="Gabriel Herrera Lab10"
+               Text="Genaro Valqui"
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand" />
 
